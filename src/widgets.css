@@ -1,0 +1,58 @@
+.pageSection {
+  padding: 20px;
+}
+.page___info {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+.page___info > h4 {
+  margin-left: 15px;
+  font-weight: 600;
+}
+.notification___info {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.notification___info > h4 {
+  margin-left: 15px;
+  font-weight: 600;
+}
+.campain___info {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.campain___info > h4 {
+  margin-left: 15px;
+  font-weight: 600;
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.page___info:hover {
+  background-color: rgba(211, 211, 211, 0.26);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.notification___info:hover {
+  background-color: rgba(211, 211, 211, 0.26);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.campain___info:hover {
+  background-color: rgba(211, 211, 211, 0.26);
+  border-radius: 10px;
+  cursor: pointer;
+}
